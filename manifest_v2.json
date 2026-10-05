@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "com.taskschd.dfwatch",
+    "restype": "quick_app",
+    "name": "三角洲行动",
+    "description": "《三角洲行动》手表版是一款离线战术游戏。在烽火地带探索地图、搜集物资、开启钥匙房，满足条件后撤离；在全面战场参与16对16对抗，争夺据点、救援队友。支持配装、仓库与交易行，采用方向键瞄准和单发射击，把搜集、战斗与撤离的乐趣装进腕间。",
+    "preview": [
+      "media/Vela_Virtual_Device-2026-10-05-17-46-39.png",
+      "media/Vela_Virtual_Device-2026-10-05-17-46-57.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/IMG_259758_1200x800.jpg",
+    "author": [
+      {
+        "name": "Taskschd1145",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
+      "versionCode": 6
+    },
+    "xmrw6": {
+      "version": "1.0.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
+      "versionCode": 6
+    },
+    "xmrw5xring": {
+      "version": "1.0.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
+      "versionCode": 6
+    },
+    "xmb10p": {
+      "version": "1.0.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
+      "versionCode": 6
+    },
+    "xmb9p": {
+      "version": "1.0.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
+      "versionCode": 6
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
