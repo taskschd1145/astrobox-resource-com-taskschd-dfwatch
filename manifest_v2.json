@@ -3,7 +3,7 @@
     "id": "com.taskschd.dfwatch",
     "restype": "quick_app",
     "name": "三角洲行动",
-    "description": "《三角洲行动》手表版是一款离线战术游戏。在烽火地带探索地图、搜集物资、开启钥匙房，满足条件后撤离；在全面战场参与16对16对抗，争夺据点、救援队友。支持配装、仓库与交易行，采用方向键瞄准和单发射击，把搜集、战斗与撤离的乐趣装进腕间。",
+    "description": "《三角洲行动》手表版是一款离线战术游戏。在烽火地带探索地图、搜集物资、开启钥匙房，满足条件后撤离；在全面战场参与16对16对抗，争夺据点、救援队友。支持配装、仓库与交易行，采用方向键瞄准和单发射击，把搜集、战斗与撤离的乐趣装进腕间。\n\n更新日志\nv1.1（2026/10/6）增加烽火地带地图“航天基地”\n\n注意：由于手环限制，部分机制可能与原版不同\n\n本项目为爱好者制作的非官方改编，与《三角洲行动》官方无关联，不代表官方授权或出品。涉及的名称、标志、角色及其他 IP 素材，其权利归各自权利人所有。相关素材及 IP 与 AstroBox、小米无关；AstroBox、小米不参与本项目制作，也不为其提供授权或背书。 此声明不替代素材使用所需的授权。",
     "preview": [
       "media/Vela_Virtual_Device-2026-10-05-19-21-34.png",
       "media/Vela_Virtual_Device-2026-10-05-19-22-02.png",
@@ -25,29 +25,29 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.1",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
-      "versionCode": 6
+      "version": "1.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.1.rpk",
+      "versionCode": 7
     },
     "xmrw6": {
-      "version": "1.0.1",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
-      "versionCode": 6
+      "version": "1.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.1.rpk",
+      "versionCode": 7
     },
     "xmrw5xring": {
-      "version": "1.0.1",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
-      "versionCode": 6
+      "version": "1.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.1.rpk",
+      "versionCode": 7
     },
     "xmb10p": {
-      "version": "1.0.1",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
-      "versionCode": 6
+      "version": "1.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.1.rpk",
+      "versionCode": 7
     },
     "xmb9p": {
-      "version": "1.0.1",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.0.1.rpk",
-      "versionCode": 6
+      "version": "1.1",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.1.rpk",
+      "versionCode": 7
     }
   },
   "ext": {
