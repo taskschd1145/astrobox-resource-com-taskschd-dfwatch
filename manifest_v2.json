@@ -24,10 +24,14 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.2.2.2",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.2.rpk",
-      "versionCode": 15,
+      "version": "1.2.2.3",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.3.rpk",
+      "versionCode": 16,
       "updatelogs": [
+        {
+          "version": "1.2.2.3",
+          "content": "-修复战斗黑屏问题"
+        },
         {
           "version": "1.2.2.2",
           "content": "-修复了敌人显示问题"
@@ -55,10 +59,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.2.2.2",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.2.rpk",
-      "versionCode": 15,
+      "version": "1.2.2.3",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.3.rpk",
+      "versionCode": 16,
       "updatelogs": [
+        {
+          "version": "1.2.2.3",
+          "content": "-修复战斗黑屏问题"
+        },
         {
           "version": "1.2.2.2",
           "content": "-修复了敌人显示问题"
@@ -86,10 +94,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.2.2.2",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.2.rpk",
-      "versionCode": 15,
+      "version": "1.2.2.3",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.3.rpk",
+      "versionCode": 16,
       "updatelogs": [
+        {
+          "version": "1.2.2.3",
+          "content": "-修复战斗黑屏问题"
+        },
         {
           "version": "1.2.2.2",
           "content": "-修复了敌人显示问题"
@@ -117,10 +129,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.2.2.2",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.2.rpk",
-      "versionCode": 15,
+      "version": "1.2.2.3",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.3.rpk",
+      "versionCode": 16,
       "updatelogs": [
+        {
+          "version": "1.2.2.3",
+          "content": "-修复战斗黑屏问题"
+        },
         {
           "version": "1.2.2.2",
           "content": "-修复了敌人显示问题"
@@ -148,10 +164,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.2.2.2",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.2.rpk",
-      "versionCode": 15,
+      "version": "1.2.2.3",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.3.rpk",
+      "versionCode": 16,
       "updatelogs": [
+        {
+          "version": "1.2.2.3",
+          "content": "-修复战斗黑屏问题"
+        },
         {
           "version": "1.2.2.2",
           "content": "-修复了敌人显示问题"
