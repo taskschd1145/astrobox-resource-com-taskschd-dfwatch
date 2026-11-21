@@ -24,10 +24,14 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.2.2.4",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.4.rpk",
-      "versionCode": 17,
+      "version": "1.2.2.5",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.5.rpk",
+      "versionCode": 18,
       "updatelogs": [
+        {
+          "version": "1.2.2.5",
+          "content": "-修复了手表设备游玩时频繁重启的问题\n-修复了手环设备死机问题"
+        },
         {
           "version": "1.2.2.4",
           "content": "!!!重要更新\n-修复游玩时熄屏导致系统死机，无法退出游戏，存档错误等问题，并增加强制常亮功能，建议所有用户更新"
@@ -63,10 +67,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.2.2.4",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.4.rpk",
-      "versionCode": 17,
+      "version": "1.2.2.5",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.5.rpk",
+      "versionCode": 18,
       "updatelogs": [
+        {
+          "version": "1.2.2.5",
+          "content": "-修复了手表设备游玩时频繁重启的问题\n-修复了手环设备死机问题"
+        },
         {
           "version": "1.2.2.4",
           "content": "!!!重要更新\n-修复游玩时熄屏导致系统死机，无法退出游戏，存档错误等问题，并增加强制常亮功能，建议所有用户更新"
@@ -102,10 +110,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.2.2.4",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.4.rpk",
-      "versionCode": 17,
+      "version": "1.2.2.5",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.5.rpk",
+      "versionCode": 18,
       "updatelogs": [
+        {
+          "version": "1.2.2.5",
+          "content": "-修复了手表设备游玩时频繁重启的问题\n-修复了手环设备死机问题"
+        },
         {
           "version": "1.2.2.4",
           "content": "!!!重要更新\n-修复游玩时熄屏导致系统死机，无法退出游戏，存档错误等问题，并增加强制常亮功能，建议所有用户更新"
@@ -141,10 +153,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.2.2.4",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.4.rpk",
-      "versionCode": 17,
+      "version": "1.2.2.5",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.5.rpk",
+      "versionCode": 18,
       "updatelogs": [
+        {
+          "version": "1.2.2.5",
+          "content": "-修复了手表设备游玩时频繁重启的问题\n-修复了手环设备死机问题"
+        },
         {
           "version": "1.2.2.4",
           "content": "!!!重要更新\n-修复游玩时熄屏导致系统死机，无法退出游戏，存档错误等问题，并增加强制常亮功能，建议所有用户更新"
@@ -180,10 +196,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.2.2.4",
-      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.4.rpk",
-      "versionCode": 17,
+      "version": "1.2.2.5",
+      "file_name": "downloads/com.taskschd.dfwatch.release.1.2.2.5.rpk",
+      "versionCode": 18,
       "updatelogs": [
+        {
+          "version": "1.2.2.5",
+          "content": "-修复了手表设备游玩时频繁重启的问题\n-修复了手环设备死机问题"
+        },
         {
           "version": "1.2.2.4",
           "content": "!!!重要更新\n-修复游玩时熄屏导致系统死机，无法退出游戏，存档错误等问题，并增加强制常亮功能，建议所有用户更新"
@@ -220,11 +240,6 @@
     }
   },
   "ext": {
-    "forceUpdate": {
-      "version": "1.2.2.4",
-      "strategy": "prompt",
-      "reason": "!!!重要更新\n-修复游玩时熄屏导致系统严重死机，无法退出游戏，存档错误等问题，并增加强制常亮功能，建议所有用户更新"
-    },
     "enableAstroBoxCreatorFeatures": true
   }
 }
